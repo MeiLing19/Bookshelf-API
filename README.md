@@ -2,6 +2,8 @@
 
 Submission Bookshelf API - Kelas Belajar Membuat Aplikasi Back-End untuk Pemula
 
+🗒️ [Sertifikat Kompetensi Kelas Belajar Membuat Aplikasi Back-End untuk Pemula.pdf](https://github.com/MeiLing19/Bookshelf-API/) [^1]
+
 ## 🚀 Deskripsi Kelas
 
 Belajar Membuat Aplikasi Back-End untuk Pemula <br>
